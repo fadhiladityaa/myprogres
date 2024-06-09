@@ -1,0 +1,24 @@
+# progres-day-1
+progress hari pertama saya dikasih paham agar tidak gampang terdistrak sama hal hal sepele dan fokus pada tujuan, dan yang paling penting harus fokus dan konsisten
+
+# advice
+-terbiasa sama sakit dan lelahnya belajar
+-menentukan jam belajar 
+-jangan gampang menyerah
+
+# computer science
+kalo sa baca baca computer science lebih banyak dibahas tentang jurusan yang ada ya nama lainnya ya teknik informatika, ya intinya studi atau mempelajari atau memperdalam tentang komputer dan sistem komputasi.
+
+sistem komputasi = adalah kumpulan dari hardware beserta software dan brainware yang bekerja sama sehingga terjadikah sesuatu yang dapat disebut sebagai sistem. 
+
+# web development
+web development adalah pengembangan web atau aplikasi yang dapat diakses melalui browser
+
+# softeware  development 
+pengembangan software atau aplikasi desktop, maupun mobile, sitem operasi atau aplikasi lainnya yang nantinya dapat diinstall dalam perangkat desktop maupun mobile
+
+# perbandingan antara software development dan web development
+perbedaannya kalo web dev pembuatan perangkat lunak berbasis web yang nantinya diakses melalui browser, kalo software dev pembuatan perangkat lunak yang nanti dapat di install untuk perangkat mobile maupun desktop. karena perbedaan akses ini juga tentunya tools2 yang digunakan pada keduanya akan berbeda, kalo web dev pake html, css, js dll sedangkan software  dev bisa pake swift, kotlin dll.
+
+# sekian dan terima kasih
+besok harus lebih fokus lagi biar bisa belajar lebih awal, biar bisa kerjakan yang lain juga, nda papa sedikit2 yang penting konsisten.
