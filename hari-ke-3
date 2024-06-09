@@ -1,0 +1,40 @@
+hari ke tiga mencoba menggunakan github 
+
+git config --global user.name "Nama Anda"        # Mengatur nama pengguna Git global
+git config --global user.email "email@anda.com"  # Mengatur email pengguna Git global
+
+git config --global user.name "Nama Anda"        # Mengatur nama pengguna Git global
+git config --global user.email "email@anda.com"  # Mengatur email pengguna Git global
+
+git clone <url-repo>   # Mengkloning repository dari URL yang diberikan
+
+git status   # Menampilkan status file yang telah diubah, ditambahkan, atau dihapus
+
+git add <nama-file>   # Menambahkan file tertentu ke staging area
+git add .   # Menambahkan semua perubahan file ke staging area
+
+git commit -m "Pesan commit Anda"   # Melakukan commit dengan pesan deskriptif
+
+git log   # Menampilkan log dari commit yang telah dilakukan
+
+git push origin <nama-branch>   # Mengirim commit dari branch lokal ke branch remote
+
+git pull origin <nama-branch>   # Mengambil dan menggabungkan perubahan dari branch remote
+
+git checkout -b <nama-branch>   # Membuat branch baru dan langsung berpindah ke branch tersebut
+
+git checkout -b <nama-branch>   # Membuat branch baru dan langsung berpindah ke branch tersebut
+
+git merge <nama-branch>   # Menggabungkan branch yang disebutkan ke branch saat ini
+
+git merge <nama-branch>   # Menggabungkan branch yang disebutkan ke branch saat ini
+
+git branch -d <nama-branch>   # Menghapus branch lokal yang disebutkan
+
+git remote add origin <url-repo>   # Menambahkan remote dengan URL yang diberikan dan menamainya "origin"
+
+git remote -v   # Menampilkan daftar remote beserta URL-nya
+
+git rm <nama-file>   # Menghapus file dari working directory dan staging area
+git commit -m "Hapus file <nama-file>"   # Melakukan commit penghapusan file
+git push origin <nama-branch>   # Mengirim commit penghapusan ke remote
