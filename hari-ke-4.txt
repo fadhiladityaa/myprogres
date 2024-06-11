@@ -1,0 +1,17 @@
+//Algoritma
+algoritma adalah serangkaian langkah langkah yang jelas dan terstruktur untuk menyelesaikan masalah 
+
+macam macam algoritma
+//algoritma linear
+
+yaitu cara untuk mencari sesuatu dengan memeriksa satu persatu, 
+misal kita memiliki 7 loker, dan hendak mencari uang 50 yang berada di dalam loker,
+jika kita mengguanakan algortma lineear,  maka kita akan mengecek satu persatu pintu loker secara berurutan,
+sehingga jumlah proses yang akan terjadi akan bergantung dari banyaknya jumlah loker yang ada,
+sehingga time complexitynya adalah o(n)
+namun jika kita beruntung, kita dapat menemukan uang pada pintu loker pertama maka hanya akan terjadi 1 proses saja
+sehingga time compexitynya adalah o(1)
+
+//algoritma binary
+algortitma binary adalah cara untuk mencari index dari target yang dicari di mana array dibagi menjadi dua bagian,
+dan setiap bagian dicari secara terpisah sampai elemen yang dicari ditemukan atau dipastikan tidak ada dalam daftar.
